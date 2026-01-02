@@ -1,2 +1,2 @@
-Line 1: Original content
+Line 1: change it by collaborator
 Line 2: Common line
